@@ -1,2 +1,2 @@
-print("Su nombre y apellido es:", "Gabriel Garcisssssssssssssssssssssssssssssssssssssssssssssssssssssssaa")
+print("Su nombre y apellido es:", "Gabriel Garcia")
 
